@@ -1,0 +1,5 @@
+﻿  3.cpp
+C:\Users\vital\source\repos\3\3.cpp(13,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\vital\source\repos\3\3.cpp(18,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\vital\source\repos\3\3.cpp(19,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  3.vcxproj -> C:\Users\vital\source\repos\3\x64\Debug\3.exe
